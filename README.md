@@ -1,1 +1,1 @@
-# slot-machine-rust
+# rust-slot-machine
